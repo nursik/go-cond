@@ -1,5 +1,6 @@
 # Go-cond
 [![Go Reference](https://pkg.go.dev/badge/github.com/nursik/go-cond.svg)](https://pkg.go.dev/github.com/nursik/go-cond)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nursik/go-cond)](https://goreportcard.com/report/github.com/nursik/go-cond)
 
 Safer `sync.Cond` alternative
 
